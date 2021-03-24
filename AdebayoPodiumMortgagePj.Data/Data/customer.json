@@ -1,0 +1,16 @@
+[
+  {
+    "Id": "1",
+    "FirstName": "Bayo",
+    "Lastname": "Gbembo",
+    "DateOfBirth": "1983-04-19",
+    "Email": "bayo@bayo.com"
+  },
+  {
+    "Id": "2",
+    "FirstName": "Yemi",
+    "Lastname": "Billy",
+    "DateOfBirth": "1993-06-29",
+    "Email": "yemi@bayo.com"
+  }
+]
